@@ -1,5 +1,7 @@
 # github-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/skeptycal/github-api.svg)](https://greenkeeper.io/)
+
 > Nuxt.js for the GitHub API
 
 ## Build Setup
